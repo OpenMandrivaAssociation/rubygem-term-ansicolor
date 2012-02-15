@@ -14,7 +14,7 @@ BuildRequires:	rubygems
 BuildArch:	noarch
 
 %description
-
+Ruby library that colors strings using ANSI escape sequences.
 
 %package	doc
 Summary:	Documentation for %{name}
