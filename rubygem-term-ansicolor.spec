@@ -51,3 +51,19 @@ Documents, RDoc & RI documentation for %{name}.
 %{ruby_gemdir}/gems/%{rbname}-%{version}/examples/*.rb
 %dir %{ruby_gemdir}/gems/%{rbname}-%{version}/tests
 %{ruby_gemdir}/gems/%{rbname}-%{version}/tests/*.rb
+
+
+%changelog
+* Wed Feb 15 2012 Per Øyvind Karlsen <peroyvind@mandriva.org> 1.0.7-2
++ Revision: 774533
+- regenerate spec with gem2rpm5
+- mass rebuild of ruby packages against ruby 1.9.1
+
+* Mon Jan 23 2012 Alexander Khrukin <akhrukin@mandriva.org> 1.0.7-1
++ Revision: 766993
+- version update 1.0.7
+
+* Sat Oct 09 2010 Rémy Clouard <shikamaru@mandriva.org> 1.0.5-1mdv2011.0
++ Revision: 584361
+- import rubygem-term-ansicolor
+
