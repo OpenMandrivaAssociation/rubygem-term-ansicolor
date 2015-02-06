@@ -5,7 +5,7 @@ Summary:	Ruby library that colors strings using ANSI escape sequences
 Name:		rubygem-%{rbname}
 
 Version:	1.0.7
-Release:	2
+Release:	3
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
 URL:		http://flori.github.com/term-ansicolor
