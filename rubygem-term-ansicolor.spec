@@ -8,7 +8,7 @@ Version:	1.0.7
 Release:	3
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
-URL:		http://flori.github.com/term-ansicolor
+URL:		https://flori.github.com/term-ansicolor
 Source0:	http://rubygems.org/gems/%{rbname}-%{version}.gem
 BuildRequires:	rubygems 
 BuildArch:	noarch
